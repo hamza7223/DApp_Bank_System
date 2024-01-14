@@ -1,0 +1,46 @@
+.Submission, .main{
+    border-radius: 1vw;
+    width:50%;
+    background-color: rgba(183, 185, 187, 0.227);
+}
+.h1{
+    margin-top: 32vh;
+}
+.main{
+    background-color: #0000009c;
+    width:100%;
+    height:100vh;
+    padding: 2vw;
+    text-align: center;
+}
+.css-wuhzpr-MuiInputBase-root-MuiInput-root{
+         font-weight: 400 !important; 
+        font-size: 1.5rem !important;
+}
+.css-wuhzpr-MuiInputBase-root-MuiInput-root:before {
+    border-bottom: 1px solid rgb(255 255 255) !important;
+}
+div:where(.swal2-container) div:where(.swal2-popup) {
+    display: none;
+    position: relative;
+    box-sizing: border-box;
+    grid-template-columns: minmax(0, 100%);
+    width: 32em;
+    max-width: 100%;
+    padding: 0 0 1.25em;
+    border: none;
+    border-radius: 5px;
+    background: #c3bcbc !important; 
+    color: #545454; 
+    font-family: inherit;
+    font-size: 1rem;
+}
+.menu-li:hover {
+    background-color: #343a40 !important;
+  }
+  .nav-link:hover, .dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: black !important;
+    border-radius: 5px;
+  }
+  
